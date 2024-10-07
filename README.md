@@ -3,6 +3,7 @@ OBS Studio setting
 
 
 ### Plug-in setting for Zoom to mouse
+`https://obsproject.com/forum/resources/zoom-to-mouse.1823/`
 
 Zoom Factor: 2.00
 
